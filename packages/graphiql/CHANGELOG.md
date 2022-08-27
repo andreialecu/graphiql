@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.0.3
+
+### Patch Changes
+
+- [#2706](https://github.com/graphql/graphiql/pull/2706) [`ff20a381`](https://github.com/graphql/graphiql/commit/ff20a3818f10f648d7b8c18229138b0424b8b25c) Thanks [@mxstbr](https://github.com/mxstbr)! - Wrap the GraphiQL logo with a link to the repository
+
 ## 2.0.2
 
 ### Patch Changes
